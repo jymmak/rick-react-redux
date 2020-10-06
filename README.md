@@ -1,7 +1,6 @@
 <h1 align="center">
    Rick and Morty
-  <br>
-</h1>
+ </h1>
 
 
 ## PokeAPI con React y Redux
